@@ -34,7 +34,7 @@ function Dictionary() {
         <input type="text"  ref={inputRef}/>
         <button onClick={handleSearch}>Search</button>
         <div>
-            <h3>Defination:</h3>
+            <h3>Definition:</h3>
             <p>{defination}</p>
         </div>
     </div>
